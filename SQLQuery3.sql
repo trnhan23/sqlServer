@@ -105,6 +105,11 @@ SELECT eid
 FROM @emp_over_salaray_manager
 )
 
+go
+create table NHANVIEN(
+	id int primary key,
+	hoten char(30)
+)
 
 
 
