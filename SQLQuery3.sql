@@ -108,5 +108,6 @@ FROM @emp_over_salaray_manager
 
  Trong nhan
 
+insert 
 
 
