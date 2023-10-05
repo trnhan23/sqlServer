@@ -110,6 +110,6 @@ create table NHANVIEN(
 	id int primary key,
 	hoten char(30)
 )
-
+insert 
 
 
